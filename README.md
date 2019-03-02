@@ -6,3 +6,5 @@ This is medical health app which enable the user to ”identify his illness and 
 ![Screenshot](https://github.com/aviralagrawal/Doctor-App/blob/master/My_Health_Account.jpg)
 ![Screenshot](https://github.com/aviralagrawal/Doctor-App/blob/master/Navigation_Drawer.jpg)
 ![alt text](https://github.com/aviralagrawal/Doctor-App/blob/master/Nearby_Doctors.jpg)
+![alt text](https://github.com/aviralagrawal/Doctor-App/blob/master/Doctor_Details.jpg)
+![alt text](https://github.com/aviralagrawal/Doctor-App/blob/master/Doctor_List.jpg)
